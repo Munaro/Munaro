@@ -1,8 +1,6 @@
 <div align="center">
     <a href="https://github.com/Munaro">
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Munaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munaro&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
+    <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Munaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
     <img align="center" alt="Munaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
     <img align="center" alt="Munaro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,5 +19,4 @@
     <a href="https://www.linkedin.com/in/lucas-munaro-388332172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
  ![Snake animation](https://github.com/Munaro/Munaro/blob/output/github-contribution-grid-snake.svg)
-   
   </div>
