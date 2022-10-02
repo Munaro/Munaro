@@ -3,6 +3,7 @@
     <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Munaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
     <img align="center" alt="Munaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+    <img align="center" alt="Munaro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Munaro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Munaro-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">  
     <img align="center" alt="Munaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -10,6 +11,7 @@
     <img align="center" alt="Munaro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Munaro-Bulma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">      
     <img align="center" alt="Munaro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
+    <img align="center" alt="Munaro-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Munaro-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">     
   </div>
     <br>   
