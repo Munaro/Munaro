@@ -1,6 +1,8 @@
 <div align="center"> 
+
  ![Snake animation](https://github.com/Munaro/Munaro/blob/output/github-contribution-grid-snake.svg)
-    <a href="https://github.com/Munaro">
+ 
+  
   <div style="display: inline_block"><br>
     <img align="center" alt="Munaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
     <img align="center" alt="Munaro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
