@@ -2,7 +2,7 @@
 🔭 Founder & Lead Developer at **Experdata App** — building custom enterprise systems with modern cloud-native architecture.<br>🌱 Currently expanding expertise in **C# microservices**, **OPC UA** industrial protocols, and **cloud-native distributed systems**.<br>⚡ Specialized in fullstack development, real-time data synchronization, and scalable backend architectures.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//lucas.munaro.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/munaro.sql) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-munaro-388332172/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-munaro-388332172/) 
 
 # 💻 Tech Stack:
 
