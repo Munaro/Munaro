@@ -1,13 +1,7 @@
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
-
+ 
 <br/>
 
 <div align="center">
@@ -58,11 +52,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munaro&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Munaro's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munaro&theme=radical&hide_border=true" alt="Munaro's GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-rho-navy.vercel.app/api/top-langs/?username=Munaro&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Munaro's Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munaro&theme=ocean_dark&hide_border=true" alt="Munaro's GitHub Streak">
 </p>
