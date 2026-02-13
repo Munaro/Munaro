@@ -1,0 +1,32 @@
+name: Generate Galaxy Profile
+
+on:
+  schedule: 
+    - cron: "0 */12 * * *"
+  workflow_dispatch: 
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Galaxy Profile SVG
+        uses: vinimlo/galaxy-profile@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push SVG
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile-galaxy.svg || echo "Nenhum arquivo novo para adicionar"
+          git commit -m "chore: atualiza imagem do galaxy profile" || echo "Nenhuma alteração para commitar"
+          git push
