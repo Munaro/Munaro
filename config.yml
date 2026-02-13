@@ -1,0 +1,74 @@
+# Galaxy Profile README Configuration
+# Your GitHub username (required)
+username: Munaro
+
+# Profile information displayed in the galaxy header
+profile:
+  name: "Lucas Munaro"
+  tagline: "Founder & Lead Developer @ Experdata App"
+  company: "Experdata App"
+  location: "Portugal"
+  bio: |
+    Building custom enterprise systems with modern cloud-native architecture.
+    Expanding expertise in C# microservices, OPC UA industrial protocols, and distributed systems.
+  philosophy: '"Specialized in fullstack development, real-time data, and scalable backends."'
+
+# Social links displayed at the bottom of the profile
+social:
+  email: "lucasmunaror@gmail.com" # Substitua pelo seu email real
+  linkedin: "lucas-munaro-388332172"
+  website: "https://github.com/Munaro"
+
+# Galaxy arms represent your core focus areas
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "Angular"
+      - "Vue.js"
+      - "React"
+      - "TypeScript"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "C# / .NET"
+      - "Node.js"
+      - "PostgreSQL"
+      - "MySQL"
+  - name: "Cloud & IoT"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "AWS"
+      - "OPC UA"
+      - "S7 Protocol"      
+
+# Theme color overrides (Mantive o padrão deep space que é muito bonito)
+theme:
+  void: "#080c14"              # Darkest background
+  nebula: "#0f1623"            # Card backgrounds
+  star_dust: "#1a2332"         # Borders, dividers
+  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
+  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
+  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
+  text_bright: "#f1f5f9"       # Primary text
+  text_dim: "#94a3b8"          # Secondary text
+  text_faint: "#64748b"        # Muted text, labels
+
+# Stats configuration
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:                     
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
