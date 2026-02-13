@@ -1,9 +1,9 @@
 name: Generate Galaxy Profile
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: 
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,14 +12,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate Galaxy Profile SVG
-        uses: vinimlo/galaxy-profile@master
+        uses: vinimlo/galaxy-profile@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
