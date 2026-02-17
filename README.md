@@ -48,10 +48,3 @@
 
 **Industrial & IoT**<br>
 ![OPC UA](https://img.shields.io/badge/OPC%20UA-4B0082?style=for-the-badge&logo=opcua&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munaro&theme=ocean_dark&hide_border=true" alt="Munaro's GitHub Streak">
-</p>
